@@ -163,7 +163,7 @@ img.info-box-weather-icon{
 h1.info-box-weather-icon{
     font-size  : 65px;
     font-weight: 200;
-    padding    : 0;
+    padding    : 1rem;
     margin     : 0;
 }
 
